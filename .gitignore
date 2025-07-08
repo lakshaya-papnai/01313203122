@@ -1,0 +1,12 @@
+# Global ignores
+node_modules/
+.DS_Store
+
+# React
+test 8 jul/node_modules/
+
+
+
+# Logs
+*.log
+.env
